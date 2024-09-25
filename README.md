@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @An0nman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python + Web
+- 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on Wen
 - 📫 How to reach me Whatsapp(03033085577)
 - 😄 Pronouns: He
